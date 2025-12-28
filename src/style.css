@@ -16,10 +16,7 @@
 *{
     scroll-behavior: smooth;
 }
-body {
-  overflow: hidden;
-  height: 100vh;
-}
+
 .Home {
   background-color: #11071f;
   overflow-y: scroll;
