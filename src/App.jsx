@@ -6,7 +6,7 @@ const projects = [
     platform: 'Web',
     type: 'Logistics platform',
     description: 'A delivery operations platform with service flows, order handling and a responsive customer experience.',
-    image: '/images/Capture.png',
+    image: '/images/Capture.PNG',
     stack: ['React', 'Laravel', 'MySQL'],
    // github: 'https://github.com/samyKingSKC/Swiftwing_courier',
     live: 'https://swiftwingcouriers.com',
@@ -94,7 +94,7 @@ function App() {
             </div>
           </div>
           <div className="intro-aside">
-            <div className="portrait-frame"><img src="/images/kingsley.PNG" alt="Samuel Kingsley" /></div>
+            <div className="portrait-frame"><img src="/images/kingsley.png" alt="Samuel Kingsley" /></div>
             <div className="availability"><span className="status-dot" /> Available for selected projects <span className="aside-arrow">↗</span></div>
           </div>
         </section>
