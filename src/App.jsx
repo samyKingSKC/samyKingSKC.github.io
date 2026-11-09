@@ -90,7 +90,7 @@ function App() {
             <p className="intro-text">I am Samuel Kingsley, a full-stack developer focused on dependable interfaces, useful admin systems and backend services that hold up after launch.</p>
             <div className="intro-actions">
               <a className="button button-primary" href="#work">See selected work <span>↓</span></a>
-              <a className="text-link" href="mailto:fedrickjohnson642@gmail.com">Start a conversation <span>↗</span></a>
+              <a className="text-link" href="mailto:kingsley0samuel2003@gmail.com">Start a conversation <span>↗</span></a>
             </div>
           </div>
           <div className="intro-aside">
@@ -131,7 +131,7 @@ function App() {
 
         <section className="experience section-wrap"><div className="section-heading"><p className="kicker">Experience</p><h2>Built alongside<br /><em>real teams.</em></h2></div><div className="timeline"><div className="timeline-item"><span>2022 — now</span><div><h3>Full-stack developer</h3><p>Business applications, dashboards, booking systems and API-backed products.</p></div></div><div className="timeline-item"><span>Earlier work</span><div><h3>Web instructor & developer</h3><p>Teaching web fundamentals while delivering and maintaining client systems.</p></div></div></div></section>
 
-        <section id="contact" className="contact section-wrap"><p className="kicker">Have a project in mind?</p><h2>Let’s make it<br /><em>useful.</em></h2><a className="contact-email" href="mailto:fedrickjohnson642@gmail.com">fedrickjohnson642@gmail.com <span>↗</span></a><div className="contact-meta"><a href="https://github.com/samyKingSKC" target="_blank" rel="noreferrer">GitHub ↗</a><a href="/SKCMYCV.pdf">Resume ↓</a><span>Lagos, Nigeria</span></div></section>
+        <section id="contact" className="contact section-wrap"><p className="kicker">Have a project in mind?</p><h2>Let’s make it<br /><em>useful.</em></h2><a className="contact-email" href="mailto:kingsley0samuel2003@gmail.com">kingsley0samuel2003@gmail.com <span>↗</span></a><div className="contact-meta"><a href="https://github.com/samyKingSKC" target="_blank" rel="noreferrer">GitHub ↗</a><a href="/SKCMYCV.pdf">CV ↓</a><span>Lagos, Nigeria</span></div></section>
       </main>
 
       <footer><span>© {new Date().getFullYear()} Samuel Kingsley</span><span>React / PHP / Laravel</span></footer>

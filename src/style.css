@@ -12,7 +12,7 @@ button { font: inherit; }
 .wordmark-mark { align-items: center; background: var(--ink); color: var(--lime); display: flex; font-family: 'DM Mono', monospace; font-size: 11px; height: 30px; justify-content: center; width: 30px; }
 .navigation { display: flex; font-family: 'DM Mono', monospace; font-size: 11px; gap: 30px; text-transform: uppercase; }
 .navigation a:hover, .project-links a:hover, .contact-meta a:hover { color: var(--orange); }
-.menu-button { background: none; border: 0; cursor: pointer; display: none; font-family: 'DM Mono', monospace; font-size: 11px; gap: 9px; text-transform: uppercase; }
+.menu-button { background: var(--ink); border: 0; color: var(--white); cursor: pointer; display: none; font-family: 'DM Mono', monospace; font-size: 11px; gap: 9px; padding: 10px 12px; text-transform: uppercase; }
 .menu-button b { font-size: 18px; font-weight: 400; line-height: 11px; }
 .section-wrap { margin: auto; max-width: 1240px; padding-left: 5vw; padding-right: 5vw; }
 .intro { align-items: center; display: grid; gap: 7vw; grid-template-columns: 1.3fr .7fr; min-height: 680px; padding-bottom: 110px; padding-top: 110px; }
